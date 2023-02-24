@@ -1,0 +1,7 @@
+let billAmount = 100;
+
+function gratunity()
+{
+    let tip = billAmount * 0.2;
+    return tip; 
+}
